@@ -1,6 +1,9 @@
 numpy
+numba
 torch
 tqdm
 more-itertools
-transformers>=4.19.0
+transformers>=4.30.0
 ffmpeg-python==0.2.0
+more-itertools
+tiktoken==0.3.3
